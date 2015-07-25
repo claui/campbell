@@ -1,5 +1,6 @@
-require "campbell/version"
+require 'campbell/model'
+require 'campbell/rendering'
+require 'campbell/version'
 
 module Campbell
-  # Your code goes here...
 end

@@ -1,8 +1,10 @@
 # Campbell
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/campbell`. To experiment with that code, run `bin/console` for an interactive prompt.
+This Ruby gem renders glyphs, which are a key element in the massively-multiplayer augmented reality game [Ingress](https://www.ingress.com) by Google Inc.
 
-TODO: Delete this and the text above, and describe your gem
+## Work in progress
+
+At this point, the gem is work in progress and does not do anything useful yet.
 
 ## Installation
 
@@ -22,7 +24,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+At this point, the gem is work in progress and does not do anything useful yet.
 
 ## Development
 
@@ -32,10 +34,12 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/campbell.
+Bug reports and pull requests are welcome on GitHub at https://github.com/claui/campbell.
 
+## Disclaimer
+
+This gem has not been prepared, approved, endorsed, or licensed by Google, Inc. nor by any entity that created or produced the massively-multiplayer augmented reality game Ingress.
 
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
